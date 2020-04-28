@@ -1,4 +1,4 @@
-# Customer-service-chatbot-using-tweeter-data
+# Customer-service-chatbot-using-twitter-data
 
 Executive summary 
 
